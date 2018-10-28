@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace WenMax.Security.AuthServer
 {
-    //updated in Rel
+    //master
     public class Startup
     {
         public Startup(IConfiguration configuration)
